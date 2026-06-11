@@ -7,6 +7,12 @@ page is the map; the phases are the territory.
 The four big ideas: **API**, **CRUD**, **database tables**, and
 **MVC (Model-View-Controller)**.
 
+> **Want to poke the ideas, not just read them?** Every section below
+> has a matching interactive notebook in [../playground/](../playground/)
+> — run it cell by cell, edit anything, safe to break, nothing graded.
+> Best rhythm: read a section here, then play its notebook. The
+> playground README has the full map (and the 2-minute setup).
+
 ---
 
 ## 1. What is a backend? What is an API?

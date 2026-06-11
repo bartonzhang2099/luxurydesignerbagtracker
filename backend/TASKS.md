@@ -9,15 +9,31 @@ next", the guide is the "why".
 Work top to bottom. Don't skip ahead — later phases assume earlier ones
 work.
 
-## Phase 0 — Concepts (no code!)
+## Phase 0 — Concepts (no project code yet!)
 
 Guide: [docs/00-concepts.md](docs/00-concepts.md)
 
 - [ ] Read the whole primer (~15 min). It explains, from zero: what an
       API is, what CRUD means, what a database table is, and what
       Model-View-Controller is — all using this project as the example.
-- [ ] Answer the 6 "Check yourself" questions at the bottom *out loud,
-      in your own words*, before peeking at the answers.
+- [ ] Play through the [playground/](playground/) notebooks (start with
+      its README — it has the 2-minute Jupyter setup). Each is a tiny,
+      run-cell-by-cell, safe-to-break demo of one primer concept, and
+      nothing in there is graded:
+  - [ ] `00_python_warmup.ipynb` — variables, lists, dicts, loops, functions
+  - [ ] `01_json.ipynb` — the text format APIs speak
+  - [ ] `02_api_kitchen.ipynb` — a fake backend you poke with requests
+  - [ ] `03_crud.ipynb` — Create / Read / Update / Delete on a dict
+  - [ ] `04_tables_sql.ipynb` — real SQL on a real (tiny) database
+  - [ ] `05_mvc.ipynb` — model/view/controller, plus the storage-swap trick
+  - [ ] `06_request_flow.ipynb` — one request walked through all 6 steps,
+        one cell per step
+  - [ ] In each one, do at least two of the "✏️ Your turn" cells — the
+        edit-run-compare loop is the actual exercise.
+- [ ] Answer the 6 "Check yourself" questions at the bottom of the
+      primer *out loud, in your own words*, before peeking at the
+      answers — or take the interactive version:
+      `python3 playground/07_quiz.py`.
 - [ ] Don't worry about memorizing — every phase below links back to the
       relevant section when the concept shows up for real.
 
