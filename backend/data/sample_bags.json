@@ -1,0 +1,61 @@
+[
+  {
+    "id": "chanel-flap-001",
+    "brand": "Chanel",
+    "model": "Classic Flap Medium",
+    "color": "Black Caviar",
+    "condition": "like_new",
+    "source": "sample_data",
+    "price_history": [
+      {"price": 9500.0, "currency": "USD", "timestamp": "2026-01-01T09:00:00"},
+      {"price": 9800.0, "currency": "USD", "timestamp": "2026-02-01T09:00:00"}
+    ]
+  },
+  {
+    "id": "chanel-boy-001",
+    "brand": "Chanel",
+    "model": "Boy Bag Small",
+    "color": "Beige",
+    "condition": "gently_used",
+    "source": "sample_data",
+    "price_history": [
+      {"price": 5200.0, "currency": "USD", "timestamp": "2026-01-01T09:00:00"},
+      {"price": 4900.0, "currency": "USD", "timestamp": "2026-02-01T09:00:00"}
+    ]
+  },
+  {
+    "id": "hermes-birkin-001",
+    "brand": "Hermès",
+    "model": "Birkin 25 Togo",
+    "color": "Gold",
+    "condition": "like_new",
+    "source": "sample_data",
+    "price_history": [
+      {"price": 24500.0, "currency": "USD", "timestamp": "2026-01-01T09:00:00"}
+    ]
+  },
+  {
+    "id": "lv-neverfull-001",
+    "brand": "Louis Vuitton",
+    "model": "Neverfull MM",
+    "color": "Damier Ebene",
+    "condition": "gently_used",
+    "source": "sample_data",
+    "price_history": [
+      {"price": 1600.0, "currency": "USD", "timestamp": "2026-01-01T09:00:00"},
+      {"price": 1450.0, "currency": "USD", "timestamp": "2026-03-01T09:00:00"}
+    ]
+  },
+  {
+    "id": "coach-tabby-001",
+    "brand": "Coach",
+    "model": "Tabby Shoulder Bag 26",
+    "color": "Brown",
+    "condition": "new",
+    "source": "sample_data",
+    "price_history": [
+      {"price": 450.0, "currency": "USD", "timestamp": "2026-01-01T09:00:00"},
+      {"price": 395.0, "currency": "USD", "timestamp": "2026-03-01T09:00:00"}
+    ]
+  }
+]
