@@ -7,3 +7,4 @@ anthropic==0.40.*
 sqlalchemy==2.*
 psycopg2-binary==2.9.*
 pytest==8.*
+ipykernel==6.*   # lets VS Code run the playground/ notebooks
